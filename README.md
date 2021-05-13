@@ -1,0 +1,2 @@
+# currencyWatcher
+Currency viewing module
